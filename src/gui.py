@@ -1,3 +1,16 @@
+#####
+"""
+    Tohle bych třeba jen zmínil,
+
+    - Gui běží na kódu v souboru gui.py. 
+    - Podle mě to není relevantní k práci
+
+    - Zmínil bych jenom, že se odsud volají fce z dalších souborů
+    - Ukázal bych segmenty a vysvětlil, že to je třeba udělané na kliknutí, i když i to je možná overkill
+"""
+#####
+
+
 import datetime
 import os
 import platform

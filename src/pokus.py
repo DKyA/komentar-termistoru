@@ -1,6 +1,17 @@
 import pandas as pd
 import datetime
 
+#####
+# Chybí mi tady komentáře
+#####
+
+
+"""
+Zase, napsal bych k čemu to slouží a co to dělá, odkud se ty funkce volají a jak je to důležité.
+Pro mě je tohle dost nečitelné, zkus mi to tím textem jakoby vysvětlit
+Klidně bych zase popsal co dělají importované moduly, pokud tam je něco zásadního
+"""
+
 
 df = pd.read_csv('data.csv')
 count = df.shape[0]
